@@ -1,6 +1,7 @@
 <?php
 /**
  * Simply adds a toolbar link to edit the custom post archive settings in Genesis
+ * Includes support for Github Updater plugin (https://github.com/afragen/github-updater)
  *
  * @package   CPTArchiveSettingsToolbarGenesis
  * @author    Mike Hemberger <mike@thestizmedia.com>
@@ -10,7 +11,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       CPT Archive Settings Toolbar
- * Plugin URI:        http://github.com/JiveDig/display-featured-image-genesis/
+ * Plugin URI:        https://github.com/JiveDig/cptast-genesis/
  * Description:       This plugin works within the Genesis Framework, to add a toolbar link to edit the custom post archive settings
  * Version:           1.0.0
  * Author:            Mike Hemberger

@@ -1,6 +1,6 @@
 <?php
 /**
- * Simply adds a toolbar link to edit the custom post archive settings in Genesis
+ * Simply adds a link in the toolbar to edit the Genesis custom post archive setting
  * Includes support for Github Updater plugin (https://github.com/afragen/github-updater)
  *
  * @package   CPTArchiveSettingsToolbarGenesis
